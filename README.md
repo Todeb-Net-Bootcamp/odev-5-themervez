@@ -8,6 +8,6 @@
 
 4- Proje swagger üzerinden istek atılabilir hale gelsin 
 
-NOT: CRUD işlemleri de kullanılacaktı (Yanlış hatırlıyorsam düzeltin lütfen)
+NOT: CRUD işlemleri de kullanılacak
 
 # Son Teslim Tarihi: 29 Temmuz Cuma saat 23.00
